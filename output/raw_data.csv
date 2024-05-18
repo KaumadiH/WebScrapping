@@ -1,0 +1,818 @@
+Title,h1,h2,h3,h4,h5,h6,paragraph
+introduction to html,html introduction,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references what is html? a simple html document what is an html element? web browsers html page structure html history video: html introduction contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example explained",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution html is the standard markup language for creating web pages. an html element is defined by a start tag, some content, and an end tag: the html element is everything from the start tag to the end tag: note: some html elements have no content (like the <br> 
+element). these elements are called empty elements. empty elements do not have an end tag! the purpose of a web browser (chrome, edge, firefox, safari) is to read html documents and display them 
+correctly. a browser does not display the html tags, but uses them to determine how to display the document:  below is a visualization of an html page structure: note: the content inside the <body> section 
+will be displayed in a browser. the content inside the <title> element will be 
+shown in the browser's title bar or in the page's tab. since the early days of the world wide web, there have been many versions of html: this tutorial follows the latest html5 standard. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html tutorial,html tutorial,"tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references easy learning with html ""try it yourself"" html examples html exercises test yourself with exercises exercise: html quiz test my learning html references kickstart your career contact sales report error","
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution html is the standard markup language for web pages. with html you can create your own website. html is easy to learn - you will enjoy it! with our ""try it yourself"" editor, you can edit the html code and view the 
+result: click on the ""try it yourself"" button to see how it works. in this html tutorial, you will find more than 200 examples. with our online 
+""try it yourself"" editor, you can edit and test each example yourself! go to html examples! this html tutorial also contains nearly 100 html exercises. add a ""tooltip"" to the paragraph below with the text ""about w3schools"". start the exercise test your html skills with our html quiz! start html quiz! track your progress with the free ""my learning"" program here at w3schools. log in to your account, and start earning points! this is an optional feature. you can study at w3schools without using my learning. at w3schools you will find complete references about html elements, 
+attributes, events, color names, entities, character-sets, url encoding, 
+language codes, http messages, browser support, and more: get certified by completing the  course if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html editors,html editors,"tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references learn html using notepad or textedit step 1: open notepad (pc) step 1: open textedit (mac) step 2: write some html step 3: save the html page step 4: view the html page in your browser w3schools online editor - ""try it yourself"" w3schools spaces w3schools spaces w3schools spaces video: html editors contact sales report error","
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example everything you need right in the browser.",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution a simple text editor is all you need to learn html. web pages can be created and modified by using professional html editors. however, for learning html we recommend a simple text editor like notepad (pc) or textedit (mac). we believe that using a simple text editor is a good way to learn html. follow the steps below to create your first web page with notepad or textedit. windows 8 or later: open the start screen (the window symbol at the bottom left on your screen). type notepad. windows 7 or earlier: open start > 
+programs > accessories > notepad open finder > applications > textedit also change some preferences to get the application to 
+save files correctly.
+in preferences > format > 
+choose ""plain text"" then under ""open and save"", check the box that says ""display html files as html code instead of formatted text"". then open a new document to place the code. write or copy the following html code into notepad:  save the file on your computer. select file > save as in the notepad menu. name the file ""index.htm"" and set the encoding to 
+utf-8 (which is the preferred encoding for html files).  tip: you can use either .htm or .html as file extension. there is no difference; it is up to you. open the saved html file in your favorite browser (double click on the file, 
+or right-click - and choose ""open with""). the result will look much like this:  with our free online editor, you can edit the html code and view the result in your browser. it is the perfect tool when you want to test code fast. it also has color 
+coding and the ability to save and share code with others: click on the ""try it yourself"" button to see how it works. if you want to create your own website and save your code online, try our free website builder, called w3schools spaces: if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html basic,html basic examples,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references html documents the <!doctype> declaration html headings html paragraphs html links html images how to view html source html exercises test yourself with exercises exercise: contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example example example example view html source code: inspect an html element:",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution in this chapter we will show some basic html examples. don't worry if we use tags you have not learned about yet. all html documents must start with a document type declaration: <!doctype html>. the html document itself begins with <html> and ends with </html>. the visible part of the html document is between <body> and </body>.  the <!doctype> declaration represents the document type, and helps browsers to display web pages correctly. it must only appear once, at the top of the page (before any html tags).  the <!doctype> declaration is not case sensitive. the <!doctype> declaration for html5 is: html headings are defined with the <h1> to <h6> tags. <h1> defines the most important heading. <h6> defines the least important 
+heading:  html paragraphs are defined with the <p> tag: html links are defined with the <a> tag: the link's destination is specified in the href attribute.  attributes are used to provide additional information about html elements. you will learn more about attributes in a later chapter. html images are defined with the <img> tag. the source file (src), alternative text (alt), 
+width, and height are provided as attributes: have you ever seen a web page and wondered ""hey! how did they do that?"" click ctrl + u in an html page, or right-click on the page and select ""view page source"". this will open a 
+new tab 
+containing the html source code of the page. right-click on an element (or a blank area), and choose ""inspect"" to see what elements are made up of (you will see both 
+the html and the css). you can also edit the html or css on-the-fly in the 
+elements or styles panel that opens. html elements are surrounded by a specific type of brackets, which one? start the exercise if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html elements,html elements,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references html elements nested html elements never skip the end tag empty html elements html is not case sensitive html exercises test yourself with exercises exercise: html tag reference video: html elements contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example explained example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution an html element is defined by a start tag, some content, and an 
+end tag. the html element is everything from the start tag to the end tag: examples of some html elements: note: some html elements have no content (like the <br> 
+element). these elements are called empty elements. empty elements do not have an end tag! html elements can be nested (this means that elements can contain other elements). all html documents consist of nested html elements. the following example contains four html elements (<html>, <body>, <h1> 
+and <p>): the <html> element is the root element 
+and it defines the whole html document. it has a start tag <html> and an end tag </html>. then, inside the <html> element there is 
+a <body> 
+element: the <body> element defines the 
+document's body. it has a start tag <body> and an end tag </body>. then, inside the <body> element there 
+are two other elements:
+<h1> and 
+<p>: the <h1> element defines a heading. it has a start tag <h1> and an end tag </h1>: the <p> element defines a paragraph. it has a start tag <p> and an end tag </p>: some html elements will display correctly, even if you forget the end tag: however, never rely on this! unexpected results and errors may occur if you forget the end tag! html elements with no content are called empty elements. the <br> tag defines a line break, and 
+is an empty element without a closing tag: html tags are not case sensitive: <p> means the same as <p>. the html standard does not require lowercase tags, but w3c
+recommends lowercase in html, and demands lowercase for stricter document types like xhtml. at w3schools we always use lowercase tag names. insert the correct end tag for the html heading. start the exercise w3schools' tag reference contains additional information about these tags and their attributes. for a complete list of all available html tags, visit our html tag reference. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html headings,html headings heading 1,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references heading 2 html headings headings are important bigger headings html exercises test yourself with exercises exercise: html tag reference video: html headings contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example heading 3 example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom heading 4 color picker,heading 5 top tutorials top references top examples get certified,heading 6,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution html headings are titles or subtitles that you want to display on a webpage. html headings are defined with the <h1> to <h6> tags. <h1> defines the most important heading. <h6> defines the least important heading. note: browsers automatically add some white space (a margin) before and after a heading. search engines use the headings to index the structure and content of your web pages. users often skim a page by its headings. it is important to use headings to show the document structure. <h1> headings should be used for main headings, followed by <h2> headings, then the less important 
+<h3>, and so on. note: use html headings for headings only. don't use headings to make text 
+  big or bold. each html heading has a default size. however, you can specify the size for any heading 
+with the style attribute, using the css font-size property: use the correct html tag to add a heading with the text ""london"". start the exercise w3schools' tag reference contains additional information about these tags and their attributes. for a complete list of all available html tags, visit our html tag reference. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html paragraphs,html paragraphs,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references html paragraphs html display html horizontal rules html line breaks the poem problem solution - the html <pre> element html exercises test yourself with exercises exercise: html tag reference video: html paragraphs contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example example example example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution a paragraph always starts on a new line, and is usually a block of text. the html <p> element defines a paragraph. a paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph. you cannot be sure how html will be displayed. large or small screens, and resized windows will create different results.  with html, you cannot change the display by adding extra spaces or extra lines in your html code. the browser will automatically remove any extra spaces and lines when the page is 
+displayed: the <hr> tag defines a thematic break in an html page, and is most often 
+displayed as a horizontal rule. the <hr> element is used to separate content (or define a change) in an html 
+page: the <hr> tag is an empty tag, which means that it has no end tag. the html <br> element defines a line break. use <br> if you want a line break (a new line) without starting a new paragraph: the <br> tag is an empty tag, which means that it has no end tag. this poem will display on a single line: the html <pre> element defines preformatted text. the text inside a <pre> element is displayed in a fixed-width font (usually 
+courier), and it preserves both spaces and line breaks: use the correct html tag to add a paragraph with the text ""hello world!"". start the exercise w3schools' tag reference contains additional information about html elements and their attributes. for a complete list of all available html tags, visit our html tag reference. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html styles,html styles,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references the html style attribute background color text color fonts text size text alignment chapter summary html exercises test yourself with exercises exercise: video: html styles contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example example example example example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution the html style attribute is used to add styles to an element, such as color, font, size, and more. i am red i am blue i am big setting the style of an html element, can be done with the style attribute. the html style attribute has the following syntax: the property is a css property. the value is a css value. you will learn more about css later in this tutorial. the css background-color property defines the background color 
+for an html element. set the background color for a page to powderblue: set background color for two different elements: the css color property defines the text color for 
+an html element: the css font-family property defines the font to be used  
+for an html element: the css font-size property defines the text size for 
+an html element: the css text-align property defines the horizontal text alignment for an html element: use the correct html attribute, and css, to set the color of the paragraph to ""blue"". start the exercise if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html text formatting,html text formatting,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references html formatting elements html <b> and <strong> elements html <i> and <em> elements html <small> element html <mark> element html <del> element html <ins> element html <sub> element html <sup> element html exercises test yourself with exercises exercise: html text formatting elements video: html formatting contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example example example example example example example example example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution html contains several elements for defining text with a special meaning. this text is bold this text is italic this is subscript and superscript formatting elements were designed to display special types of text: the html <b> element defines bold text, 
+without any extra importance. the html <strong> element defines text 
+with strong importance. the content inside is typically displayed in bold. the html <i> element defines a part of 
+text in an alternate voice or mood. the content inside is typically displayed in 
+italic. tip: the <i> tag is often used to indicate a technical term, 
+a phrase from another language, a thought, a ship name, etc. the html <em> element defines 
+emphasized text. the content inside is typically displayed in italic. tip: a screen reader will pronounce the words in <em> 
+with an emphasis, using verbal stress. the html <small> element defines 
+smaller text: the html <mark> element defines text 
+that should be marked or highlighted: the html <del> element defines text 
+that has been deleted from a document. browsers will usually strike a line 
+through deleted text: the html <ins> element defines a text 
+that has been inserted into a document. browsers will usually underline inserted 
+text: the html <sub> element defines 
+subscript text. subscript text appears half a character below the normal line, 
+and is sometimes rendered in a smaller font. subscript text can be used for 
+chemical formulas, like h2o: the html <sup> element defines 
+superscript text. superscript text appears half a character above the normal 
+line, and is sometimes rendered in a smaller font. superscript text can be used 
+for footnotes, like www[1]: add extra importance to the word ""degradation"" in the paragraph below. start the exercise for a complete list of all available html tags, visit our html tag reference. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
+html quotation elements,html quotation and citation elements,tutorials exercises certificates all our services html tutorial html forms html graphics html media html apis html examples html references html <blockquote> for quotations html <q> for short quotations html <abbr> for abbreviations html <address> for contact information html <cite> for work title html <bdo> for bi-directional override html exercises test yourself with exercises exercise: html quotation and citation elements contact sales report error,"
+                  html and css
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  javascript
+                 
+                  web building
+                 
+                  backend
+                 
+                  data analytics
+                 
+                  web building
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                javascript
+               
+                  backend
+                 
+                  data analytics
+                 
+                  html and css
+                 
+                  data analytics
+                 
+                  programs
+                 
+                  javascript
+                 
+                  programs
+                 
+                  programs
+                 
+                  backend
+                 
+                  data analytics
+                 example example example example example example example",free tutorials references create a website exercises quizzes get certified log in / sign up pathfinder & my learning upgrade where to start code editor (try it) videos templates web hosting create a server how to's css framework browser statistics typing speed aws training color picker code game set goal newsletter jobs contact us classroom color picker,top tutorials top references top examples get certified,,"
+                w3schools offers a wide range of services and products for beginners and professionals,
+                
+                helping millions of people everyday to learn and master new skills.
+               enjoy our free tutorials like millions of other internet users since 1999 explore our selection of references covering all popular coding languages 
+                      create your own website with
+                      w3schools spaces
+                      - no setup required
+                     test your skills with different exercises test yourself with multiple choice questions document your knowledge 
+                      create a
+                      free
+                      w3schools account to improve your learning experience
+                     track your learning progress at w3schools and collect rewards become a plus user and unlock powerful features (ad-free, hosting, support,..) not sure where you want to start? follow our guided path with our online code editor, you can edit code and view the result in your browser learn the basics of html in a fun and engaging video tutorial we have created a bunch of responsive website templates you can use - for free! 
+                      host your own website, and share it to the world with
+                      w3schools spaces
+ create your own server using python, php, react.js, node.js, java, c#, etc. large collection of code snippets for html, css and javascript 
+                      build fast and responsive sites using our free
+                      w3.css
+                      framework
+                     read long term trends of browser usage test your typing speed learn amazon web services 
+                      use our color picker to find different rgb, hex and hsl colors.
+                      
+ 
+                      w3schools coding game! help the lynx collect pine cones
+                      
+ get personalized learning journey based on your current skills and goals join our newsletter and get access to exclusive content every month hire top tech talents. streamline your hiring process for the perfect team fit 
+                      about sales:
+                      sales@w3schools.com
+
+                      about errors:
+                      help@w3schools.com
+ get in touch for using w3schools plus and certifications as an educational institution in this chapter we will go through the 
+<blockquote>,<q>, <abbr>, <address>, <cite>, 
+and <bdo> html elements. here is a quote from wwf's website: the html <blockquote> element defines a section that 
+is quoted from another source. browsers usually indent <blockquote> elements. the html <q> tag defines a short quotation. browsers normally insert quotation marks around the quotation. the html <abbr> tag defines an abbreviation or an acronym, like ""html"", 
+""css"", ""mr."", 
+""dr."", ""asap"", ""atm"". marking abbreviations can give useful information to browsers, translation 
+systems and search-engines. tip: use the global title attribute to 
+show the description for the 
+abbreviation/acronym when you mouse over the element.  the html <address> tag defines the contact information for the author/owner of a document 
+or an article. the contact information can be an email address, url, physical address, phone 
+number, social media handle, etc. the text in the <address> element usually renders in italic, 
+and browsers will
+always add a line break before and after the <address> element. the html <cite> tag defines the title of a 
+creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.). note: a person's name is not the title of a work. the text in the <cite> element usually renders in italic. bdo stands for bi-directional override. the html <bdo> tag is used to override 
+the current text direction: use an html element to add quotation marks around the letters ""cool"". start the exercise for a complete list of all available html tags, visit our html tag reference. if you want to use w3schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com if you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com"
